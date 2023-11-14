@@ -23,7 +23,7 @@ const Aboutus = () => {
       };
   return (
     <>
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
@@ -56,7 +56,7 @@ const Aboutus = () => {
     </div>
     
   
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
@@ -89,7 +89,7 @@ const Aboutus = () => {
     </div>
     
   
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
@@ -122,7 +122,7 @@ const Aboutus = () => {
     </div>
     
   
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
@@ -155,7 +155,7 @@ const Aboutus = () => {
     </div>
     
   
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
@@ -188,7 +188,7 @@ const Aboutus = () => {
     </div>
     
   
-    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row">
+    <div className="pt-16 md:pt-24 md:p-32 md:justify-center md:gap-32 gap-4 p-4 h-full justify-center items-center flex-col flex w-full md:flex-row bg-[#40b186]">
       <div className="">
         <h1 className="font-semibold text-center md:text-left text-4xl mb-2">Child Education</h1>
         <p className="text-sm mb-4 font-semibold text-center md:text-left">“Education is not the filling of a pail, but the lighting of a fire.” ~ William Butler Yeats</p>
