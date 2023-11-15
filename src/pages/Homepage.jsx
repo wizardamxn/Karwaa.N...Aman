@@ -62,7 +62,7 @@ A step for the welfare of another India.
             We organize innumerous activities to help the marginalized and create awareness about various social issues. Addressing issues from health and hygiene to education and environment, the members of Kaarwaa.N believe in working towards making this world a better place.
             </p>
           <Link to="/aboutus">
-            <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 my-10 py-1 rounded-full bg-[#24387a]">
+            <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 my-10 py-1 rounded-full bg-[#1e9600]">
               Meet Our Team <BsArrowUpRight />
             </button>
           </Link>
