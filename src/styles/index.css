@@ -10,9 +10,10 @@
 }
 
 body{
-  background-color: #00af94;
+  background-color: #43AA8B;
 }
 .home{
+    background-color: #A0D8C3 !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,12 +40,7 @@ background-image: linear-gradient(to left, #1e9600, #fff200, #ff0000);;
     background-repeat: no-repeat;
 }
 .programbg{
-<<<<<<< HEAD
-    background-color: #21673D;
-=======
-    background-color: #eb9898;
->>>>>>> 4ac4fe840087818f95fa0118eb0127f404c1aa56
-    padding: 8px; /* Adjust as needed */
+    background-color: #A0D8C3;
     /* background-image: url(https://imgs.search.brave.com/v5oJc4ZJrb6I4eq15gzv-T4XNMKwdNIXaaLG83y0_ZQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE0/ODg1MjE3ODc5OTEt/ZWQ3YmJhYWU3NzNj/P2l4bGliPXJiLTQu/MC4zJml4aWQ9TTN3/eE1qQTNmREI4TUh4/amIyeHNaV04wYVc5/dUxYQmhaMlY4TVRk/OE1URXhOalV6Tkh4/OFpXNThNSHg4Zkh4/OCZ3PTEwMDAmcT04/MA);
     background-position: center;
     background-size: cover;
@@ -108,7 +104,8 @@ background-image: linear-gradient(to left, #1e9600, #fff200, #ff0000);;
       flex-direction: column-reverse;
       background-image: none;
       gap: 10px;
-      padding: 0px;;
+      padding: 0px;
+      background-color: #A0D8C3;
     }
     .taglinediv{
       padding: 0px;
