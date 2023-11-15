@@ -22,8 +22,8 @@ function Footer() {
             </span>
           </div>
           <p className="text-sm font-light pb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquam bibendum ante, vel rhoncus dolor
-            volutpat at. Sed elementum arcu id urna euismod, in fermentum libero cursus.
+            Lets make the world great and help the underprivileged to overcome their difficulties and achieve new heights.
+            They also deserve the basic necessities of life. Don't forget to donate for their cause.
           </p>
           <div className="mt-4 md:mt-12">
             <div className="flex space-x-4">
