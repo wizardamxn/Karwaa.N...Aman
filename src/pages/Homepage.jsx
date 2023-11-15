@@ -117,8 +117,8 @@ A step for the welfare of another India.
             src={nukkad_natak}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Nukkad Natak:
             </h1>
             <p className="px-4 pb-2">
@@ -135,8 +135,8 @@ A step for the welfare of another India.
             src={blood_donation}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Blood Donation:  
             </h1>
             <p className="px-4 pb-2">
@@ -153,8 +153,8 @@ A step for the welfare of another India.
             src={plantation}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Plantation: 
             </h1>
             <p className="px-4 pb-2">
@@ -171,8 +171,8 @@ A step for the welfare of another India.
             src={cloth_donation}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Clothes distribution: 
             </h1>
             <p className="px-4 pb-2">
@@ -189,8 +189,8 @@ A step for the welfare of another India.
             src={voting}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Orphanage visits: 
             </h1>
             <p className="px-4 pb-2">
@@ -207,8 +207,8 @@ A step for the welfare of another India.
             src={teaching}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]">
-            <h1 className="text-xl p-4 font-semibold text-[#24387a]">
+          <div className="detailstoshow bg-[#254441]">
+            <h1 className="text-xl p-4 font-semibold text-[#B2B09B]">
             Exam Prepration:
             </h1>
             <p className="px-4 pb-2">
