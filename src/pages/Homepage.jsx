@@ -71,7 +71,7 @@ A step for the welfare of another India.
         <div className="aboutimage h-96 w-1/2">
           <div className="h-40 w-full imagebgdiv bg-[#24387a]"></div>
           <img
-            className="-translate-y-16 image -translate-x-12"
+            className="-translate-y-16 image -translate-x-16"
             src="./images/aboutusimage.jpg"
             alt=""
           />
