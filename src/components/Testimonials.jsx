@@ -75,7 +75,7 @@ const Testimonials = () => {
     <div className="mx-4 md:mx-auto max-w-screen-lg my-6">
       <div className="bg-white rounded-lg shadow-md p-4">
         <p className="text-center opacity-80 text-xs m-1">
-          adipisicing elit.cta quasi quidem accusantium temporibus repudiandae voluptate odio, distincti!
+         Karwaa.N... team won't reach the heights without the respected professors who helped the cause of Karwaa.N...
         </p>
         <h2 className="text-center font-medium text-2xl mb-4">Our Mentors</h2>
         <div className="flex relative justify-between items-center mt-6">
