@@ -117,7 +117,7 @@ A step for the welfare of another India.
             src={nukkad_natak}
             alt=""
           />
-          <div className="detailstoshow bg-[#43AA8B]]">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Nukkad Natak:
             </h1>
