@@ -83,38 +83,37 @@ function Homepage() {
           />
         </div>
       </div>
-      <div className="flex flex-col items-center h-full text-[#556AA3] w-full px-32 py-12 bg-[#40B186] programbg">
-        <h1 className="text-4xl text-center">Program To Empower Others</h1>
+      <div className="flex flex-col items-center h-full text-[#4A6C6F] w-full px-32 py-12 bg-[#40B186] programbg">
+        <h1 className="text-4xl text-center">Work Counter of Karwaa.N</h1>
         <p className="programdata text-center w-2/3 text-sm mt-6">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, ipsa!
-          Possimus, tempora! Expedita dicta quasi quidem accusantium temporibus
-          repudiandae voluptate odio, distinctio nesciunt, quam eum, provident
-          mollitia corrupti quisquam praesentium!
+          Karwaa.N... has done various works from teaching the underprivileged
+          to providing them clothings, necessary books, cloth donation drives.
+          Here is the counter for the same.
         </p>
         <div className="w-2/3 programdata my-10 gap-4 flex-row flex justify-center ">
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
             <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <p className="text-sm">Cloth Donated</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
             <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <p className="text-sm">Books donated</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
             <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <p className="text-sm">Trees Planted</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center">
             <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <p className="text-sm">Children selected for JNV</p>
           </div>
         </div>
       </div>
 
-      <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#556AA3]">
+      <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#4A6C6F] bg-[#40B186]">
         A Glimpse of various works by <br />
         Karwaa.N...
       </h1>
