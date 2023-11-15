@@ -13,7 +13,7 @@ import { Link } from "react-router-dom";
 import Footer from "../components/Footer";
 
 function Homepage() {
-    
+
   return (
     <>
 \
@@ -21,7 +21,7 @@ function Homepage() {
       {/* home page  */}
       <div
         id="home"
-        className="px-12 pt-20 gap-44 items-center flex justify-center lg:h-screen h-full w-full home"
+        className="px-12 pt-20 gap-44 items-center flex justify-center lg:h-screen h-full w-full home bg-[#B8E2D2]"
       >
         <div className="pl-20 taglinediv">
           <h1 className="text-6xl tagline w-3/5 pr-20 text-[#556AA3] font-semibold">
