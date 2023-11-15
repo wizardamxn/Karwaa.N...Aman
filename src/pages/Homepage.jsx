@@ -117,7 +117,7 @@ A step for the welfare of another India.
             src={nukkad_natak}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Nukkad Natak:
             </h1>
@@ -135,7 +135,7 @@ A step for the welfare of another India.
             src={blood_donation}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Blood Donation:  
             </h1>
@@ -153,7 +153,7 @@ A step for the welfare of another India.
             src={plantation}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Plantation: 
             </h1>
@@ -171,7 +171,7 @@ A step for the welfare of another India.
             src={cloth_donation}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Clothes distribution: 
             </h1>
@@ -189,7 +189,7 @@ A step for the welfare of another India.
             src={voting}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Orphanage visits: 
             </h1>
@@ -207,7 +207,7 @@ A step for the welfare of another India.
             src={teaching}
             alt=""
           />
-          <div className="detailstoshow bg-white">
+          <div className="detailstoshow bg-[#43AA8B]">
             <h1 className="text-xl p-4 font-semibold text-[#24387a]">
             Exam Prepration:
             </h1>
