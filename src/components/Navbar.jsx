@@ -60,7 +60,7 @@ function Navbar() {
     <input type="search" placeholder="search here.." className="opacity-0 cursor-default py-1 p-4 w-64 border-slate-200 border-2 rounded-full" />
        
       
-      <button onClick={()=>setShowJoinUsForm(true)} className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#24387a] px-4 py-1 rounded-full border-[#24387a] hover:bg-[#24387a] hover:text-white duration-300">Join us<BsArrowUpRight/></button>
+      <button onClick={()=>setShowJoinUsForm(true)} className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 py-1 rounded-full border-[#24387a] hover:bg-white hover:text-[#24387a] duration-300">Join us<BsArrowUpRight/></button>
         
         {showJoinUsForm && 
           <motion.div
