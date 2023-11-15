@@ -36,8 +36,8 @@ function Navbar() {
 
   return (
     <>
-    <div className="h-20 navbarin fixed bg-[#24387a] w-full z-[100] flex flex-row justify-between items-center px-32">
-        <ul className="flex text-white font-semibold  z-[100]  justify-start items-center gap-8">
+    <div className="h-20 navbarin fixed bg-[#000000] w-full z-[100] flex flex-row justify-between items-center px-32">
+        <ul className="flex text-[#1e9600] font-semibold  z-[100]  justify-start items-center gap-8">
           <Link to="/Home">
           <li onClick={scrolltoHome} className=" hover:underline hover:underline-offset-8 hover:cursor-pointer">Home</li>
           </Link>
