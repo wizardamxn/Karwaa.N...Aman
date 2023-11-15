@@ -26,10 +26,7 @@ function Homepage() {
 A step for the welfare of another India.
           </h1>
           <p className="w-1/2 homepara mt-8 my-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis minus soluta, ex inventore earum eius repellat? Quibusdam
-            facilis, accusantium ut iste esse adipisci pariatur libero velit
-            nostrum. Quis, maiores.
+          Karwaa.N.. an organisation aimed to raise the underprivileged, here we help and uplift them by numerous ways like Cloth Donations, Preparing Children for JNV(Jawahar Navodaya Vidyalaya), Blood Donations, Hosting Nukkad Natak to raise awareness about many social issues and unnoticed taboos in our society.
           </p>
           <div className="h-auto flex justify-center gap-6 py-6 w-[20rem] ">
             <Link to="/Donation">
