@@ -48,7 +48,7 @@ A step for the welfare of another India.
       {/* about us page */}
       <div id="about" className="flex aboutdiv my-20 pt-20 flex-row">
         <div className="flex detailsdiv flex-col w-1/2">
-          <div className="w-full py-4 p-12 pl-32 h-full flex items-start abouthread text-white flex-col bg-[#24387a]">
+          <div className="w-full py-4 p-12 pl-32 h-full flex items-start abouthread text-white flex-col bg-[#1e9600]">
             <h1 className="py-3">About Us</h1>
             <h1 className="text-4xl font-semibold">
              A glimpse at Kaarwaa.N
