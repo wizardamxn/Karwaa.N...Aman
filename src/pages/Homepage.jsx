@@ -111,7 +111,7 @@ A step for the welfare of another India.
         </div>
       </div>
 
-      <h1 id="ourwork" className="text-4xl pt-35 font-semibold my-12 mt-32 text-center text-[#4A6C6F]">
+      <h1 id="ourwork" className="text-4xl pt-35 font-semibold my-12 mt-32 text-center text-[#4A6C6F] bg-[#40B186]">
         A Glimpse of various works by <br />
         Karwaa.N...
       </h1>
