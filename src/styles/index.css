@@ -13,7 +13,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image:url("/images/homebg.jpg")
+    background-image:url("/images/homebg.jpg");
+    background-color: #A0D8C3;
 }
 .kaarwaanbg{
 background-clip: text;
