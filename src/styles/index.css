@@ -101,6 +101,7 @@ background-image: linear-gradient(to left, #1e9600, #fff200, #ff0000);;
       background-image: none;
       gap: 10px;
       padding: 0px;
+      background-color: #A0D8C3;
     }
     .taglinediv{
       padding: 0px;
