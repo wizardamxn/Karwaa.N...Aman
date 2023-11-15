@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-image:url("/images/homebg.jpg");
-    background-color: #A0D8C3;
+    background-color: #A0D8C3 !important;
 }
 .kaarwaanbg{
 background-clip: text;
