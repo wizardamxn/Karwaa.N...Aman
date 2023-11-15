@@ -36,8 +36,8 @@ function Navbar() {
 
   return (
     <>
-    <div className="h-20 navbarin fixed bg-linear-gradient(to left, #1e9600, #fff200, #ff0000) w-full z-[100] flex flex-row justify-between items-center px-32">
-        <ul className="flex text-[#24387a] font-semibold  z-[100]  justify-start items-center gap-8">
+    <div className="h-20 navbarin fixed bg-[#24387a] w-full z-[100] flex flex-row justify-between items-center px-32">
+        <ul className="flex text-white font-semibold  z-[100]  justify-start items-center gap-8">
           <Link to="/Home">
           <li onClick={scrolltoHome} className=" hover:underline hover:underline-offset-8 hover:cursor-pointer">Home</li>
           </Link>
@@ -54,7 +54,7 @@ function Navbar() {
         </ul>
         <div className="flex gap-2 items-center">
           <img className="h-12" src="./images/karwaanlogo.png" alt="" />
-          <h1 className="text-2xl text-[#24387a] font-semibold ">Kaarwaa.N</h1>
+          <h1 className="text-2xl text-[#00af94] font-semibold ">Kaarwaa.N</h1>
         </div>
         <div className="flex flex-row justify-center items-center gap-2">
     <input type="search" placeholder="search here.." className="opacity-0 cursor-default py-1 p-4 w-64 border-slate-200 border-2 rounded-full" />
