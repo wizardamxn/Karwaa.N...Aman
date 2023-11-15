@@ -77,33 +77,30 @@ A step for the welfare of another India.
           />
         </div>
       </div>
-      <div className="flex flex-col items-center h-full text-white w-full px-32 py-12 bg-[#24387a] programbg">
-        <h1 className="text-4xl text-center">Program To Empower Others</h1>
+      <div className="flex flex-col items-center h-full text-[#000000] w-full px-32 py-12 bg-[#24387a] programbg">
+        <h1 className="text-5xl text-center">Karwaa.N.. Counter</h1>
         <p className="programdata text-center w-2/3 text-sm mt-6">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, ipsa!
-          Possimus, tempora! Expedita dicta quasi quidem accusantium temporibus
-          repudiandae voluptate odio, distinctio nesciunt, quam eum, provident
-          mollitia corrupti quisquam praesentium!
+          Karwaa.N... has provided the underprivileged teaching for the JNV exam and donating clothes to the planting trees and many more pro-society works
         </p>
         <div className="w-2/3 programdata my-10 gap-4 flex-row flex justify-center ">
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-5xl">24</h1>
+            <p className="text-sm">Students Selected</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-5xl">24</h1>
+            <p className="text-sm">Cloths Donated</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-5xl">24</h1>
+            <p className="text-sm">Trees Planted</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-5xl">24</h1>
+            <p className="text-sm">Books Donated</p>
           </div>
         </div>
       </div>

@@ -104,8 +104,7 @@ background-image: linear-gradient(to left, #1e9600, #fff200, #ff0000);;
       flex-direction: column-reverse;
       background-image: none;
       gap: 10px;
-      padding: 0px;
-      background-color: #A0D8C3;
+      padding: 0px;;
     }
     .taglinediv{
       padding: 0px;
