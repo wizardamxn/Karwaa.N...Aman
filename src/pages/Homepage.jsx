@@ -106,8 +106,8 @@ A step for the welfare of another India.
       </div>
 
       <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#24387a]">
-        Introduce Your Featured <br />
-        Now Profit Causes
+        Events hosted by <br />
+        Karwaa.N...
       </h1>
       <div className="w-full flex-wrap cards my-12 justify-center px-32 flex gap-12 h-full">
         <div className="card overflow-hidden">
@@ -121,7 +121,7 @@ A step for the welfare of another India.
             Nukkad Natak:
             </h1>
             <p className="px-4 pb-2">
-            Nukkad nataks - a form of street theater performed by the members to create an awareness amongst people regarding various social issues. 
+            Nukkad Natak - A form of street theater performed by the members to create an awareness amongst people regarding various social issues. 
             </p>
             <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#24387a] px-4 py-1 m-4 rounded-lg border-[#24387a] hover:bg-[#24387a] hover:text-white duration-300">
               Read More
