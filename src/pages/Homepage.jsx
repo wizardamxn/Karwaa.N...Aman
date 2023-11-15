@@ -1,28 +1,32 @@
 
 import { BsArrowUpRight } from "react-icons/bs";
 import Testimonials from "../components/Testimonials";
-import blood_donation from "../assets/homepage/blood_donation.jpeg"
-import cloth_donation from "../assets/homepage/cloth_donation.jpeg"
-import nukkad_natak from "../assets/homepage/nukkad_natak.jpeg"
-import plantation from "../assets/homepage/plantation.jpeg"
-import teaching from "../assets/homepage/teaching.jpeg"
-import voting from "../assets/homepage/voting.jpeg"
+import blood_donation from "../assets/homepage/blood_donation.jpeg";
+import cloth_donation from "../assets/homepage/cloth_donation.jpeg";
+import nukkad_natak from "../assets/homepage/nukkad_natak.jpeg";
+import plantation from "../assets/homepage/plantation.jpeg";
+import teaching from "../assets/homepage/teaching.jpeg";
+import voting from "../assets/homepage/voting.jpeg";
 // import CreateDonationForm from "../components/Forms/FinancialHelpForm";
 
 import { Link } from "react-router-dom";
 import Footer from "../components/Footer";
 
 function Homepage() {
-
+    
   return (
     <>
 \
 
       {/* home page  */}
-      <div id="home" className="px-12 pt-20 gap-44 items-center flex justify-center lg:h-screen h-full w-full home">
+      <div
+        id="home"
+        className="px-12 pt-20 gap-44 items-center flex justify-center lg:h-screen h-full w-full home"
+      >
         <div className="pl-20 taglinediv">
-          <h1 className="text-6xl tagline w-3/5 pr-20 text-[#4B8E95] font-semibold">
-            <span className="kaarwaanbg"> Kaarwaa.N...</span><br />
+          <h1 className="text-6xl tagline w-3/5 pr-20 text-[#556AA3] font-semibold">
+            <span className="kaarwaanbg"> Kaarwaa.N...</span>
+            <br />
             A step for the welfare of another India.
           </h1>
           <p className="w-1/2 homepara mt-8 my-2">
@@ -33,7 +37,7 @@ function Homepage() {
           </p>
           <div className="h-auto flex justify-center gap-6 py-6 w-[20rem] ">
             <Link to="/Donation">
-              <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#4B8E95] px-4 py-1 rounded-full bg-[#40b186] hover:bg-[#00684C] hover:text-[#B7D9BF] duration-300 hover:border-2 hover:border-[#24387a]">
+              <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-[#556AA3] px-4 py-1 rounded-full bg-[#40b186] hover:bg-[#00684C] hover:text-[#B7D9BF] duration-300 hover:border-2 hover:border-[#24387a]">
                 Donate Now <BsArrowUpRight />
               </button>
             </Link>
@@ -44,14 +48,13 @@ function Homepage() {
             </Link>
           </div>
         </div>
-        <div className="h-96 sideimg w-96 overflow-hidden border-8 border-black rounded-full">
-        </div>
+        <div className="h-96 sideimg w-96 overflow-hidden border-8 border-black rounded-full"></div>
       </div>
 
       {/* about us page */}
       <div id="about" className="flex aboutdiv my-20 pt-20 flex-row">
         <div className="flex detailsdiv flex-col w-1/2">
-          <div className="w-full py-4 p-12 pl-32 h-full flex items-start abouthread text-[#4B8E95] flex-col bg-[#40B186]">
+          <div className="w-full py-4 p-12 pl-32 h-full flex items-start abouthread text-[#556AA3] flex-col bg-[#40B186]">
             <h1 className="py-3">About Us</h1>
             <h1 className="text-4xl font-semibold">
               A glimpse at Kaarwaa.N
@@ -80,7 +83,7 @@ function Homepage() {
           />
         </div>
       </div>
-      <div className="flex flex-col items-center h-full text-[#4B8E95] w-full px-32 py-12 bg-[#40B186] programbg">
+      <div className="flex flex-col items-center h-full text-[#556AA3] w-full px-32 py-12 bg-[#40B186] programbg">
         <h1 className="text-4xl text-center">Program To Empower Others</h1>
         <p className="programdata text-center w-2/3 text-sm mt-6">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, ipsa!
@@ -111,7 +114,7 @@ function Homepage() {
         </div>
       </div>
 
-      <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#4B8E95]">
+      <h1 id="ourwork" className="text-4xl pt-20 font-semibold my-12 mt-32 text-center text-[#556AA3]">
         A Glimpse of various works by <br />
         Karwaa.N...
       </h1>
@@ -231,9 +234,9 @@ function Homepage() {
       </div> */}
       
       <div>
-        <Testimonials/>
+        <Testimonials />
       </div>
-      <Footer/>
+      <Footer />
     </>
   );
 }
