@@ -54,13 +54,13 @@ function Navbar() {
         </ul>
         <div className="flex gap-2 items-center">
           <img className="h-12" src="./images/karwaanlogo.png" alt="" />
-          <h1 className="text-2xl text-[#00af94] font-semibold ">Kaarwaa.N</h1>
+          <h1 className="text-2xl text-[#000000] font-semibold ">Kaarwaa.N</h1>
         </div>
         <div className="flex flex-row justify-center items-center gap-2">
     <input type="search" placeholder="search here.." className="opacity-0 cursor-default py-1 p-4 w-64 border-slate-200 border-2 rounded-full" />
        
       
-      <button onClick={()=>setShowJoinUsForm(true)} className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 py-1 rounded-full border-[#24387a] hover:bg-white hover:text-[#24387a] duration-300">Join us<BsArrowUpRight/></button>
+      <button onClick={()=>setShowJoinUsForm(true)} className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 py-1 rounded-full border-[#000000] hover:bg-white hover:text-[#24387a] duration-300">Join us<BsArrowUpRight/></button>
         
         {showJoinUsForm && 
           <motion.div
