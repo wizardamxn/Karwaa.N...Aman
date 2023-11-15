@@ -9,6 +9,9 @@
   display: none;
 }
 
+body{
+  background-color: #A0D8C3;
+}
 .home{
     background-color: #A0D8C3 !important;
     background-position: center;
